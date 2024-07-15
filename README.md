@@ -38,9 +38,10 @@ pip install pandas graphviz
 
 ## Usage 
 1. Prepare your data
+   
 Create a CSV file, in the root directory of the project, that has the same format as the `Sample_Data.csv` file. Make sure to change the name of the file in the `py` file if needed.
 
-2. Run the script
+3. Run the script
 ```
 python family_tree.py
 ```
