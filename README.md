@@ -1,4 +1,4 @@
-# Family-Tree
+# Family Tree Visualization
 
 This project generates a visual representation of a family tree using data from a CSV file. The visualization is created using the `graphviz` library in Python. Individual nodes are displayed as squares and contain personal information such as birth and death details. Marriage nodes are displayed as ellipses and contain marriage information, linking the individuals in the family tree.
 
@@ -47,4 +47,19 @@ python family_tree.py
 
 3. View the output
 The family tree will be generated and saved as `family_tree.png` in the project directory.
+
+
+## Data Format
+The CSV file should have the following columns:
+
+- `ID`: Unique identifier for each person.
+- `Name`: Name of the person.
+- `Born`: Birth date of the person (YYYY-MM-DD).
+- `Born_At`: Birthplace of the person.
+- `Died`: Death date of the person (if applicable).
+- `Died_At`: Place of death of the person (if applicable).
+- `Married_To`: ID of the spouse (if applicable).
+- `Married`: Marriage date (if applicable).
+- `Married_At`: Marriage location (if applicable).
+- `Parent_Of`: ID of the child (if applicable).
 
