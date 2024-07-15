@@ -63,3 +63,12 @@ The CSV file should have the following columns:
 - `Married_At`: Marriage location (if applicable).
 - `Parent_Of`: ID of the child (if applicable).
 
+## Example
+The script processes the data and generates a visual family tree. Each person is represented by a square node with their birth and death information. Marriage nodes are ellipses connecting married individuals and display marriage details.
+
+### Sample Visualization
+
+
+### License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
