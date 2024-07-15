@@ -73,6 +73,6 @@ The script processes the data and generates a visual family tree. Each person is
 ### Sample Visualization
 ![family_tree](https://github.com/user-attachments/assets/f93038a8-693d-48e1-a152-506e3096b601)
 
-### License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
