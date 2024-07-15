@@ -67,7 +67,7 @@ The CSV file should have the following columns:
 The script processes the data and generates a visual family tree. Each person is represented by a square node with their birth and death information. Marriage nodes are ellipses connecting married individuals and display marriage details.
 
 ### Sample Visualization
-
+![family_tree](https://github.com/user-attachments/assets/f93038a8-693d-48e1-a152-506e3096b601)
 
 ### License
 This project is licensed under the MIT License. See the LICENSE file for details.
