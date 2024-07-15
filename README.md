@@ -8,7 +8,7 @@ This project generates a visual representation of a family tree using data from 
 The `graphviz` Python package depends on the Graphviz software, which includes the `dot` executable required to render graphs. Follow these steps to install Graphviz:
 
 1. Download and Install Graphviz:
-- Go to the Graphviz download page.
+- Go to the [Graphviz download page](https://graphviz.org/download/).
 - Download the appropriate installer for your operating system.
 - Run the installer and follow the installation instructions.
   
